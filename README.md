@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Richard Rangala**
 
-Time spent: **#** hours spent in total
+Time spent: **4 hours** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -49,10 +49,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 I didnt use any outside resource. I onlly used my prior coding knwledge.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I encounter 
+I encountered problems with my audio implementation. I couldn't get it to work for some reason even after debugging.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+I would like to learn more about css. Its knowlendge would help me in my path of app development.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 I would spend more time on the game logic. I felt as though i needed more time to implement and at the same time add on top of the logic that was provided. I would implement sequences mimicing a song just for fun, if the song beat is recognized by the user, the user will do better. I would also add levels of difficulty creating longer songs. Monitoringthe users response time would also be a goood implementation.
