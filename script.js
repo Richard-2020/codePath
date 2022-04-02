@@ -17,6 +17,7 @@ function startGame() {
   gamePlaying = true;
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
+  playClueSequence();
 }
 
 function stopGame() {
@@ -121,3 +122,4 @@ g.connect(context.destination);
 g.gain.setValueAtTime(0, context.currentTime);
 o.connect(g);
 o.start(0);
+console.log("Hello CodePath");
